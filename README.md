@@ -1,2 +1,2 @@
 # Programmer-s-library
-Книги по программированию по Data Science и IT Security
+Книги по программированию в Data Science и IT Security
